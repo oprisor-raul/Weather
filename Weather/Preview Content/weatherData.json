@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon":24,
+        "lat":45
+    },
+    "weather": [
+        {
+            "id":800,
+            "main":"Clear",
+            "description":"clear sky",
+            "icon":"01d"
+        }
+    ],
+    "base":"stations",
+    "main": {
+        "temp":22.38,
+        "feels_like":21.61,
+        "temp_min":22.18,
+        "temp_max":22.38,
+        "pressure":1026,
+        "humidity":36
+    },
+    "visibility":10000,
+    "wind": {
+        "speed":4.12,
+        "deg":10},
+    "clouds": {
+        "all":0
+    },
+    "dt":1658136358,
+    "sys": {
+        "type":2,
+        "id":50398,
+        "country":"RO",
+        "sunrise":1658112635,
+        "sunset":1658167693
+    },
+    "timezone":10800,
+    "id":667268,
+    "name":"Sibiu",
+    "cod":200
+}
