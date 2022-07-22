@@ -6,7 +6,7 @@
 //
 
 // Open Weather API Key:= from website (https://home.openweathermap.org/users/sign_up)
-let openWeatherAPIKEY = "cb49b51d3aa9c53b7082afdf4a577572"
+let openWeatherAPIKEY = ""
 
 import Foundation
 import CoreLocation
