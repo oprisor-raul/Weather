@@ -42,10 +42,10 @@ iPhone 8:
 
 ![alt text](https://github.com/oprisor-raul/Weather/blob/main/Screenshots/iPhone%208.png)
 
-# More information about the Open Weather API:
+## More information about the Open Weather API:
 [Open Weather API Guide](https://openweathermap.org/guide)
 
-# Source for photos:
+## Source for photos:
 [Unsplash](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifu-Lsg5D5AhUCRuUKHcFrAdUQFnoECAYQAQ&url=https%3A%2F%2Funsplash.com%2F&usg=AOvVaw07uHYdeyZQMneg6p8JTUC3) <br />
 [Pixabay](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifu-Lsg5D5AhUCRuUKHcFrAdUQFnoECAcQAQ&url=https%3A%2F%2Fpixabay.com%2F&usg=AOvVaw3oY5dN7dok1YgNphbACwVt)
 
