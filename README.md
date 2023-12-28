@@ -58,7 +58,7 @@ This project is crafted from the ground up with Swift.
 To get a local copy up and running follow these simple example steps.
 1. Clone the repo
    ```sh
-   git clone https://github.com/oprisor-raul/Bomb-Bonanza.git
+   git clone https://github.com/oprisor-raul/Weather.git
    ```
 2. Open the project in Xcode
   * Open Xcode and select "Open a project or file."
